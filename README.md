@@ -1,5 +1,4 @@
-# CoolCompilers
-Introduction to Classroom Object-Oriented Language Compiler Project
+# Introduction to Classroom Object-Oriented Language Compiler Project
 
 Welcome to our GitHub repository for the Classroom Object-Oriented Language (COOL) Compiler project! This project serves as a hands-on exercise for students and enthusiasts diving into the world of compiler principles. Here's what makes our project unique and exciting:
 
